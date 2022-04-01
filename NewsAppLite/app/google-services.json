@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971242083083",
+    "project_id": "newsapplite-5e5e1",
+    "storage_bucket": "newsapplite-5e5e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971242083083:android:5bf7adda93978f6d13880e",
+        "android_client_info": {
+          "package_name": "kg.geektech.newsapplite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971242083083-khvh4lsrefjhrdpk67ghjtt32is93pu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqxcmzONsTnYRVt8-p9_P5mcOZge-i-nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971242083083-khvh4lsrefjhrdpk67ghjtt32is93pu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
